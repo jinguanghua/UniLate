@@ -1,7 +1,7 @@
 {
 	"Server":"http://lapatch.happytuk.co.jp/latale_jpn/",
-	"Update":"Update.NFO",
-	"VersionID":[
+	"UpdateFile":"Update.NFO",
+	"VersionIDs":[
 		"2.0"
 	]
 }
