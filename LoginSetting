@@ -1,3 +1,7 @@
-Server=http://lapatch.happytuk.co.jp/latale_jpn/
-Update=Update.NFO
-VersionID=2.0
+{
+	"Server":"http://lapatch.happytuk.co.jp/latale_jpn/",
+	"Update":"Update.NFO",
+	"VersionID":[
+		"2.0"
+	]
+}
